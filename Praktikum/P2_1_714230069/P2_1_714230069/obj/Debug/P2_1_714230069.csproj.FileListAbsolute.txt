@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\P2_1_714230069\P2_1_714230069\obj\Debug\P2_1_714230069.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\P2_1_714230069\P2_1_714230069\obj\Debug\P2_1_714230069.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\P2_1_714230069\P2_1_714230069\bin\Debug\P2_1_714230069.exe.config
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\P2_1_714230069\P2_1_714230069\bin\Debug\P2_1_714230069.exe
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\P2_1_714230069\P2_1_714230069\bin\Debug\P2_1_714230069.pdb
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\P2_1_714230069\P2_1_714230069\obj\Debug\P2_1_714230069.exe
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\P2_1_714230069\P2_1_714230069\obj\Debug\P2_1_714230069.pdb
