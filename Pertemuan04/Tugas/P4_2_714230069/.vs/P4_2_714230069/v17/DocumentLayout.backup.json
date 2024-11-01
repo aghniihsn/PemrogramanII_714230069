@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D7F76-4312-4B94-8098-E1E2F616FF0C}|P4_2_714230069\\P4_2_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan04\\tugas\\p4_2_714230069\\p4_2_714230069\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9D7F76-4312-4B94-8098-E1E2F616FF0C}|P4_2_714230069\\P4_2_714230069.csproj|solutionrelative:p4_2_714230069\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D7F76-4312-4B94-8098-E1E2F616FF0C}|P4_2_714230069\\P4_2_714230069.csproj|C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\p4_2_714230069\\soloartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9D7F76-4312-4B94-8098-E1E2F616FF0C}|P4_2_714230069\\P4_2_714230069.csproj|solutionrelative:p4_2_714230069\\soloartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D7F76-4312-4B94-8098-E1E2F616FF0C}|P4_2_714230069\\P4_2_714230069.csproj|C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\p4_2_714230069\\kpopartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9D7F76-4312-4B94-8098-E1E2F616FF0C}|P4_2_714230069\\P4_2_714230069.csproj|solutionrelative:p4_2_714230069\\kpopartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9D7F76-4312-4B94-8098-E1E2F616FF0C}|P4_2_714230069\\P4_2_714230069.csproj|C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\p4_2_714230069\\groupartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9D7F76-4312-4B94-8098-E1E2F616FF0C}|P4_2_714230069\\P4_2_714230069.csproj|solutionrelative:p4_2_714230069\\groupartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupArtist.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\P4_2_714230069\\GroupArtist.cs",
+              "RelativeDocumentMoniker": "P4_2_714230069\\GroupArtist.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\P4_2_714230069\\GroupArtist.cs",
+              "RelativeToolTip": "P4_2_714230069\\GroupArtist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:29:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoloArtist.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\P4_2_714230069\\SoloArtist.cs",
+              "RelativeDocumentMoniker": "P4_2_714230069\\SoloArtist.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\P4_2_714230069\\SoloArtist.cs",
+              "RelativeToolTip": "P4_2_714230069\\SoloArtist.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:28:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KpopArtist.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\P4_2_714230069\\KpopArtist.cs",
+              "RelativeDocumentMoniker": "P4_2_714230069\\KpopArtist.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\P4_2_714230069\\KpopArtist.cs",
+              "RelativeToolTip": "P4_2_714230069\\KpopArtist.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:24:30.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\P4_2_714230069\\Program.cs",
+              "RelativeDocumentMoniker": "P4_2_714230069\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan04\\Tugas\\P4_2_714230069\\P4_2_714230069\\Program.cs",
+              "RelativeToolTip": "P4_2_714230069\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:23:22.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
