@@ -11,7 +11,8 @@ namespace P4_2_714230069
     {
         public int MembersCount { get; set; }
 
-        public GroupArtist(string stageName, int debutYear, int membersCount): base(stageName, debutYear)
+        public GroupArtist(string stageName, int debutYear, int membersCount)
+            : base(stageName, debutYear)
         {
             this.MembersCount = membersCount;
         }

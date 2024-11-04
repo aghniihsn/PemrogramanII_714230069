@@ -11,7 +11,8 @@ namespace P4_2_714230069
     {
         public string Genre { get; set; }
 
-        public SoloArtist(string stageName, int debutYear, string genre) : base(stageName, debutYear)
+        public SoloArtist(string stageName, int debutYear, string genre)
+            : base(stageName, debutYear)
         {
             this.Genre = genre;
         }

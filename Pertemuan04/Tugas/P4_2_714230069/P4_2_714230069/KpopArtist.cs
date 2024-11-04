@@ -8,27 +8,27 @@ namespace P4_2_714230069
 {
     internal abstract class KpopArtist
     {
-            private string stageName;
-            private int debutYear;
+        private string stageName;
+        private int debutYear;
 
-            public string StageName
-            {
-                get { return stageName; }
-                set { stageName = value; }
-            }
-
-            public int DebutYear
-            {
-                get { return debutYear; }
-                set { debutYear = value; }
-            }
-
-            public KpopArtist(string stageName, int debutYear)
-            {
-                this.stageName = stageName;
-                this.debutYear = debutYear;
-            }
-
-            public abstract void DisplayInfo();
+        public string StageName
+        {
+            get { return stageName; }
+            set { stageName = value; }
         }
+
+        public int DebutYear
+        {
+            get { return debutYear; }
+            set { debutYear = value; }
+        }
+
+        public KpopArtist(string stageName, int debutYear)
+        {
+            this.stageName = stageName;
+            this.debutYear = debutYear;
+        }
+
+        public abstract void DisplayInfo();
+    }
     }
