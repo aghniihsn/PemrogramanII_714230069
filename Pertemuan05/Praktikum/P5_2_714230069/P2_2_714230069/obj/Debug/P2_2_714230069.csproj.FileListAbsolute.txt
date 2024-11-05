@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\bin\Debug\P2_2_714230069.exe.config
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\bin\Debug\P2_2_714230069.exe
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\bin\Debug\P2_2_714230069.pdb
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\obj\Debug\P2_2_714230069.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\obj\Debug\P2_2_714230069.ChildForm.resources
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\obj\Debug\P2_2_714230069.ParentForm.resources
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\obj\Debug\P2_2_714230069.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\obj\Debug\P2_2_714230069.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\obj\Debug\P2_2_714230069.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\obj\Debug\P2_2_714230069.exe
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\Praktikum\P2_2_714230069\P2_2_714230069\obj\Debug\P2_2_714230069.pdb

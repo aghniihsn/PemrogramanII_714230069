@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\P5_3_714230069.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\P5_3_714230069.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\P5_3_714230069.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Documents\Semester 3\Pemrograman 2\PemrogramanII_714230069\Pertemuan05\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
