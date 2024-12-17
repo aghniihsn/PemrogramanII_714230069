@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E2CD9A8D-AA12-4B61-BDDB-412A8CC6A52A}|P6_3_714230069\\P6_3_714230069.csproj|solutionrelative:p6_3_714230069\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD9A8D-AA12-4B61-BDDB-412A8CC6A52A}|P6_3_714230069\\P6_3_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan06\\praktikum\\p6_3_714230069\\p6_3_714230069\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E2CD9A8D-AA12-4B61-BDDB-412A8CC6A52A}|P6_3_714230069\\P6_3_714230069.csproj|C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan06\\Praktikum\\P6_3_714230069\\p6_3_714230069\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2CD9A8D-AA12-4B61-BDDB-412A8CC6A52A}|P6_3_714230069\\P6_3_714230069.csproj|solutionrelative:p6_3_714230069\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "P6_3_714230069\\Form1.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan06\\Praktikum\\P6_3_714230069\\P6_3_714230069\\Form1.cs",
               "RelativeToolTip": "P6_3_714230069\\Form1.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T08:19:59.074Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan06\\Praktikum\\P6_3_714230069\\P6_3_714230069\\Form1.cs [Design]",
               "RelativeToolTip": "P6_3_714230069\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:09:55.313Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-12T08:09:55.313Z"
             }
           ]
         }
