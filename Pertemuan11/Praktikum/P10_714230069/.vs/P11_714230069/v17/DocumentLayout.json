@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|solutionrelative:p9_714230069\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|solutionrelative:p9_714230069\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|solutionrelative:p9_714230069\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\controller\\Mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|solutionrelative:P9_714230069\\controller\\Mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\view\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|solutionrelative:p9_714230069\\view\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|solutionrelative:p9_714230069\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|solutionrelative:p9_714230069\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|solutionrelative:p9_714230069\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\controller\\Koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|solutionrelative:P9_714230069\\controller\\Koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P11_714230069.csproj|solutionrelative:p9_714230069\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|c:\\users\\lenovo\\documents\\semester 3\\pemrograman 2\\pemrogramanii_714230069\\pertemuan11\\praktikum\\p10_714230069\\p9_714230069\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|solutionrelative:p9_714230069\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\p9_714230069\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|solutionrelative:p9_714230069\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\model\\M_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C543DB-2FB5-4B43-9C34-DBCEA24C24F2}|P9_714230069\\P10_714230069.csproj|solutionrelative:P9_714230069\\model\\M_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\FormNilai.cs",
+              "RelativeToolTip": "P9_714230069\\view\\FormNilai.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAApwJYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:08:59.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\controller\\Nilai.cs",
+              "RelativeToolTip": "P9_714230069\\controller\\Nilai.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:01:34.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\M_nilai.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\view\\M_nilai.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\M_nilai.cs",
+              "RelativeToolTip": "P9_714230069\\view\\M_nilai.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:59:54.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "P9_714230069\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:43:32.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\Program.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\Program.cs",
+              "RelativeToolTip": "P9_714230069\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:36:39.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\ParentForm.cs",
+              "RelativeToolTip": "P9_714230069\\view\\ParentForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:34:20.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P9_714230069\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:19:58.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P9_714230069\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:32:02.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714230069\\controller\\Koneksi.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:47:11.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "P9_714230069\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:04:35.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\Form1.cs",
+              "RelativeToolTip": "P9_714230069\\view\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAtwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:26:45.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan10\\Praktikum\\P10_714230069\\P9_714230069\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pertemuan10\\Praktikum\\P10_714230069\\P9_714230069\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:26:32.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714230069\\model\\M_mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Semester 3\\Pemrograman 2\\PemrogramanII_714230069\\Pertemuan11\\Praktikum\\P10_714230069\\P9_714230069\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P9_714230069\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:11:34.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
